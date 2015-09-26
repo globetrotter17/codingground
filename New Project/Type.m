@@ -1,0 +1,1 @@
+enum Type {Green, Red, Yellow, TheBest};
